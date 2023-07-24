@@ -11,13 +11,14 @@ import {
   SwipeToDelete,
   RippleEffect,
   PerspectiveMenu,
+  SlidingCounter,
 } from './src/pages';
 
 
 
 export default function App() {
   return (
-    <PerspectiveMenu />
+    <SlidingCounter />
   );
 }
 

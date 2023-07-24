@@ -10,3 +10,4 @@ export * from './CircularProgressBar/CircularProgressBar';
 export * from './SwipeToDelete/SwipeToDelete';
 export * from './RippleEffect/RippleEffect';
 export * from './PerspectiveMenu/PerspectiveMenu';
+export * from './SlidingCounter/SlidingCounter';

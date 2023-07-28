@@ -12,13 +12,14 @@ import {
   RippleEffect,
   PerspectiveMenu,
   SlidingCounter,
+  ClockLoader,
 } from './src/pages';
 
 
 
 export default function App() {
   return (
-    <SlidingCounter />
+    <ClockLoader />
   );
 }
 

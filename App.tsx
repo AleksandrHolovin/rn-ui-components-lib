@@ -13,13 +13,14 @@ import {
   PerspectiveMenu,
   SlidingCounter,
   ClockLoader,
+  MagicLayout,
 } from './src/pages';
 
 
 
 export default function App() {
   return (
-    <ClockLoader />
+    <MagicLayout />
   );
 }
 

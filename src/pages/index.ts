@@ -13,3 +13,4 @@ export * from './PerspectiveMenu/PerspectiveMenu';
 export * from './SlidingCounter/SlidingCounter';
 export * from './ClockLoader/ClockLoader';
 export * from './MagicLayout/MagicLayout';
+export * from './DropdownMenu/DropdownMenu';

@@ -14,13 +14,14 @@ import {
   SlidingCounter,
   ClockLoader,
   MagicLayout,
+  DropdownMenu,
 } from './src/pages';
 
 
 
 export default function App() {
   return (
-    <MagicLayout />
+    <DropdownMenu />
   );
 }
 

@@ -1,4 +1,4 @@
 export type DropdownItemT = {
-    label: string;
-    iconName: any;
+	label: string;
+	iconName: any;
 };

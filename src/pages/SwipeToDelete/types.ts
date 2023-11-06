@@ -1,4 +1,4 @@
 export interface ITask {
-    title: string;
-    index: number;
-};
+	title: string;
+	index: number;
+}

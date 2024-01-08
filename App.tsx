@@ -16,8 +16,9 @@ import {
 	MagicLayout,
 	DropdownMenu,
 	CircularCarousel,
+	OnboardingScreen,
 } from './src/pages';
 
 export default function App() {
-	return <CircularCarousel />;
+	return <OnboardingScreen />;
 }

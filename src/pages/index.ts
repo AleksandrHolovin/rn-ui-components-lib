@@ -15,3 +15,4 @@ export * from './ClockLoader/ClockLoader';
 export * from './MagicLayout/MagicLayout';
 export * from './DropdownMenu/DropdownMenu';
 export * from './CircularCarousel/CircularCarousel';
+export * from './OnboardingScreen/OnboardingScreen';
